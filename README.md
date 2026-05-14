@@ -1,7 +1,8 @@
 # Quant-Analytics
 A probabilistic market research and trading systems framework focused on regime detection, stochastic dynamics, macro constraints, and strategy viability across multi-space financial environments.
 
----
+<br>
+<br>
 
 ## Quant Skill Roadmap (From Foundations to Research-Level Thinking)
 
