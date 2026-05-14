@@ -7,7 +7,7 @@
 
 ## Quant Skill Roadmap (From Foundations to Research-Level Thinking)
 
-The goal of this roadmap is to convert systems-oriented and probabilistic thinking into mathematical rigor, statistical reasoning, computational implementation, and empirical research discipline.
+- The goal of this roadmap is to convert systems-oriented and probabilistic thinking into mathematical rigor, statistical reasoning, computational implementation, and empirical research discipline.
 
 ---
 
